@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8381C5B81F89CB860072D6B8 /* home-20.png in Resources */ = {isa = PBXBuildFile; fileRef = 8381C5B71F89CB860072D6B8 /* home-20.png */; };
+		8381C5BF1F89CF930072D6B8 /* item3.png in Resources */ = {isa = PBXBuildFile; fileRef = 8381C5B91F89CF920072D6B8 /* item3.png */; };
+		8381C5C01F89CF930072D6B8 /* select.png in Resources */ = {isa = PBXBuildFile; fileRef = 8381C5BA1F89CF920072D6B8 /* select.png */; };
+		8381C5C11F89CF930072D6B8 /* item2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8381C5BB1F89CF920072D6B8 /* item2.png */; };
+		8381C5C21F89CF930072D6B8 /* imageMask.png in Resources */ = {isa = PBXBuildFile; fileRef = 8381C5BC1F89CF920072D6B8 /* imageMask.png */; };
+		8381C5C31F89CF930072D6B8 /* itemMask.png in Resources */ = {isa = PBXBuildFile; fileRef = 8381C5BD1F89CF920072D6B8 /* itemMask.png */; };
+		8381C5C41F89CF930072D6B8 /* item1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8381C5BE1F89CF930072D6B8 /* item1.png */; };
+		8381C5C71F89D2940072D6B8 /* TabBarCustom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8381C5C61F89D2940072D6B8 /* TabBarCustom.swift */; };
+		8381C5C91F89D2B30072D6B8 /* TabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8381C5C81F89D2B30072D6B8 /* TabViewController.swift */; };
+		8381C5CB1F89D85B0072D6B8 /* TabBar1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8381C5CA1F89D85B0072D6B8 /* TabBar1ViewController.swift */; };
+		8381C5CD1F89D8660072D6B8 /* TabBar2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8381C5CC1F89D8660072D6B8 /* TabBar2ViewController.swift */; };
+		8381C5CF1F89D8700072D6B8 /* TabBar3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8381C5CE1F89D8700072D6B8 /* TabBar3ViewController.swift */; };
 		83F91E3F1F87D8BD00220629 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F91E3E1F87D8BD00220629 /* AppDelegate.swift */; };
 		83F91E411F87D8BD00220629 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F91E401F87D8BD00220629 /* ViewController.swift */; };
 		83F91E441F87D8BD00220629 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83F91E421F87D8BD00220629 /* Main.storyboard */; };
@@ -15,6 +27,18 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8381C5B71F89CB860072D6B8 /* home-20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "home-20.png"; sourceTree = "<group>"; };
+		8381C5B91F89CF920072D6B8 /* item3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item3.png; sourceTree = "<group>"; };
+		8381C5BA1F89CF920072D6B8 /* select.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = select.png; sourceTree = "<group>"; };
+		8381C5BB1F89CF920072D6B8 /* item2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item2.png; sourceTree = "<group>"; };
+		8381C5BC1F89CF920072D6B8 /* imageMask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imageMask.png; sourceTree = "<group>"; };
+		8381C5BD1F89CF920072D6B8 /* itemMask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = itemMask.png; sourceTree = "<group>"; };
+		8381C5BE1F89CF930072D6B8 /* item1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item1.png; sourceTree = "<group>"; };
+		8381C5C61F89D2940072D6B8 /* TabBarCustom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarCustom.swift; sourceTree = "<group>"; };
+		8381C5C81F89D2B30072D6B8 /* TabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewController.swift; sourceTree = "<group>"; };
+		8381C5CA1F89D85B0072D6B8 /* TabBar1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar1ViewController.swift; sourceTree = "<group>"; };
+		8381C5CC1F89D8660072D6B8 /* TabBar2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar2ViewController.swift; sourceTree = "<group>"; };
+		8381C5CE1F89D8700072D6B8 /* TabBar3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar3ViewController.swift; sourceTree = "<group>"; };
 		83F91E3B1F87D8BD00220629 /* DemoUINavigiationBarAndUITabBarController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoUINavigiationBarAndUITabBarController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		83F91E3E1F87D8BD00220629 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		83F91E401F87D8BD00220629 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -35,6 +59,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8381C5C51F89CFAA0072D6B8 /* resource */ = {
+			isa = PBXGroup;
+			children = (
+				8381C5BC1F89CF920072D6B8 /* imageMask.png */,
+				8381C5BE1F89CF930072D6B8 /* item1.png */,
+				8381C5BB1F89CF920072D6B8 /* item2.png */,
+				8381C5B91F89CF920072D6B8 /* item3.png */,
+				8381C5BD1F89CF920072D6B8 /* itemMask.png */,
+				8381C5BA1F89CF920072D6B8 /* select.png */,
+				8381C5B71F89CB860072D6B8 /* home-20.png */,
+			);
+			path = resource;
+			sourceTree = "<group>";
+		};
 		83F91E321F87D8BD00220629 = {
 			isa = PBXGroup;
 			children = (
@@ -54,12 +92,18 @@
 		83F91E3D1F87D8BD00220629 /* DemoUINavigiationBarAndUITabBarController */ = {
 			isa = PBXGroup;
 			children = (
+				8381C5C51F89CFAA0072D6B8 /* resource */,
 				83F91E3E1F87D8BD00220629 /* AppDelegate.swift */,
 				83F91E401F87D8BD00220629 /* ViewController.swift */,
 				83F91E421F87D8BD00220629 /* Main.storyboard */,
 				83F91E451F87D8BD00220629 /* Assets.xcassets */,
 				83F91E471F87D8BD00220629 /* LaunchScreen.storyboard */,
 				83F91E4A1F87D8BD00220629 /* Info.plist */,
+				8381C5C61F89D2940072D6B8 /* TabBarCustom.swift */,
+				8381C5C81F89D2B30072D6B8 /* TabViewController.swift */,
+				8381C5CA1F89D85B0072D6B8 /* TabBar1ViewController.swift */,
+				8381C5CC1F89D8660072D6B8 /* TabBar2ViewController.swift */,
+				8381C5CE1F89D8700072D6B8 /* TabBar3ViewController.swift */,
 			);
 			path = DemoUINavigiationBarAndUITabBarController;
 			sourceTree = "<group>";
@@ -124,8 +168,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				83F91E491F87D8BD00220629 /* LaunchScreen.storyboard in Resources */,
+				8381C5C11F89CF930072D6B8 /* item2.png in Resources */,
+				8381C5C31F89CF930072D6B8 /* itemMask.png in Resources */,
 				83F91E461F87D8BD00220629 /* Assets.xcassets in Resources */,
+				8381C5B81F89CB860072D6B8 /* home-20.png in Resources */,
+				8381C5C01F89CF930072D6B8 /* select.png in Resources */,
 				83F91E441F87D8BD00220629 /* Main.storyboard in Resources */,
+				8381C5BF1F89CF930072D6B8 /* item3.png in Resources */,
+				8381C5C41F89CF930072D6B8 /* item1.png in Resources */,
+				8381C5C21F89CF930072D6B8 /* imageMask.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,8 +187,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8381C5C91F89D2B30072D6B8 /* TabViewController.swift in Sources */,
 				83F91E411F87D8BD00220629 /* ViewController.swift in Sources */,
+				8381C5C71F89D2940072D6B8 /* TabBarCustom.swift in Sources */,
+				8381C5CF1F89D8700072D6B8 /* TabBar3ViewController.swift in Sources */,
+				8381C5CB1F89D85B0072D6B8 /* TabBar1ViewController.swift in Sources */,
 				83F91E3F1F87D8BD00220629 /* AppDelegate.swift in Sources */,
+				8381C5CD1F89D8660072D6B8 /* TabBar2ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

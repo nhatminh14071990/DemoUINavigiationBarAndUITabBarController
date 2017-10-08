@@ -21,5 +21,12 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func viewTabBar(_ sender: UIButton) {
+        
+        let tabBarView = self.storyboard?.instantiateViewController(withIdentifier: "tabBar")
+        self.navigationController?.pushViewController(tabBarView!, animated: true)
+        
+        
+    }
 }
 
